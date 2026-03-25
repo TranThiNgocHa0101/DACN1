@@ -36,5 +36,5 @@ npm install
 ```
 Step 2 :
 ```bash
-npm run 
+npm run dev
 ```
