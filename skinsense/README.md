@@ -19,3 +19,22 @@ To use the components in your app, import them from the `ui` package.
 ```tsx
 import { Button } from "@workspace/ui/components/button";
 ```
+## Run code :
+# To run mobile :
+Step 1 : 
+```bash
+npm install 
+```
+Step 2 : 
+```bash
+npm run android  
+```
+# To run web : 
+Step 1 :
+```bash
+npm install 
+```
+Step 2 :
+```bash
+npm run 
+```
